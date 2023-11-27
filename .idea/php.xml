@@ -1,76 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
-  <component name="ChangeListManager">
-    <list default="true" id="df521614-ebaf-4a5b-b07a-c46b7f927b51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/.env" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/bootstrap/cache/packages.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/bootstrap/cache/packages.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/bootstrap/cache/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/resources/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/resources/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_files.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca-server/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca-server/vite.config.js" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
-  <component name="ComposerConfigs">
-    <option name="configs">
-      <option value="$PROJECT_DIR$/biblioteca-server/composer.json" />
-    </option>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/biblioteca-client/composer.json</pharConfigPath>
-    <execution />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/scaffold-auth" />
-                    <option name="lastUsedInstant" value="1701049415" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1701049414" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/biblioteca-server/vendor/sebastian/lines-of-code" />
       <path value="$PROJECT_DIR$/biblioteca-server/vendor/phpunit/php-code-coverage" />
@@ -188,47 +128,16 @@
       <path value="$PROJECT_DIR$/biblioteca-server/vendor/laravel/breeze" />
     </include_path>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2YjqAd1GwuEkvyOJQEKQaq1InZd" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/scaffold-auth",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="biblioteca-server" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner configuration_file="$PROJECT_DIR$/biblioteca-server/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
-      <method v="2" />
-    </configuration>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/biblioteca-server/phpunit.xml" custom_loader_path="$PROJECT_DIR$/biblioteca-server/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="df521614-ebaf-4a5b-b07a-c46b7f927b51" name="Changes" comment="" />
-      <created>1701049197014</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1701049197014</updated>
-      <workItem from="1701049208708" duration="847000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
 </project>
